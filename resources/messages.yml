@@ -1,0 +1,5 @@
+prefix: "Some Prefix >>"
+commands:
+  reload:
+    start: "%prefix% Reload started"
+    finish: "%prefix% Reload finished"
